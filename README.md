@@ -1,2 +1,1 @@
-# flowmodoro
-Spring Boot API para sessões Pomodoro customizáveis com tracking de produtividade e analytics semanais.
+![CI](https://github.com/luizdev/flowmodoro/actions/workflows/ci.yml/badge.svg?branch=main)
