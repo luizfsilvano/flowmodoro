@@ -1,1 +1,1 @@
-![CI](https://github.com/luizdev/flowmodoro/actions/workflows/ci.yml/badge.svg?branch=main)
+![CI](https://github.com/luizfsilvano/flowmodoro/actions/workflows/ci.yml/badge.svg?branch=main)
